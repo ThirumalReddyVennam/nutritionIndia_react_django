@@ -4,7 +4,7 @@
 ## NutritionINDIA.info Standards and Methods
 > [Mockup presentation](https://drive.google.com/file/d/1b5FpCotZIF8ZH-_XkyTEY9jQPn74dygl/view?usp=sharing)
 
-> [NutritionINDIA.info Standards and Methods](https://drive.google.com/file/d/1FXawdo-5wh2rG7kehzsau0PBnWmZFMx9/view?usp=sharing)
+> [NutritionINDIA.info Standards and Methods](https://drive.google.com/file/d/1nxbLAytLCqYIUBmCPEVYYHNcVLKDsaJc/view?usp=sharing)
 
 > [Statewise Data collection Dates](https://drive.google.com/file/d/1XsIq_BvZfhXGWDLvTpW_1PetzSaOGAOO/view?usp=sharing)
 
