@@ -10,4 +10,4 @@
 
 > [Harmonized IFPRI UNICEF Cut-offs for Nutrition Indicators](https://drive.google.com/file/d/1M2Smk_5ZivI-E91CnK2lZfFBpfHvtmuo/view?usp=sharing)
 
-> [Lifecycle-Category-Indicator list](https://drive.google.com/file/d/1Q58FDqtFRbe06BGCTjiqNr72lo0l1veu/view?usp=sharing)
+> [Lifecycle-Category-Indicator list](https://docs.google.com/spreadsheets/d/1Cc3MIGaD0Z1nWoggEEKnrSh2_rQlmLDK/edit?usp=sharing&ouid=112424997379860408750&rtpof=true&sd=true)
